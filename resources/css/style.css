@@ -1,0 +1,8 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+.image {
+  background-image: url(".resources/images/the flatiron-building.png");
+  background-position: center;
+}
