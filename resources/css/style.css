@@ -28,5 +28,14 @@ h3 {
 p {
   font-size: 14px
 }
-.identify {
-  image-orientation: url("./resources/images/identify.webarchive");}
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+#flatiron {
+  background-image: url("./../images/the-flatiron-building.png");
+  background-position: center;
+  width: auto;
+  height: auto;
+}
