@@ -5,7 +5,7 @@ body {
 #image {
   background-image: url("./../images/the-flatiron-building.png");
   background-position: center;
-  width: auto;
+  width: 1219;
   height: auto;
 }
 h1{
